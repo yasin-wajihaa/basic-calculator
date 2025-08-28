@@ -1,4 +1,4 @@
-# basic-calculator
+
 #  Basic Calculator (Python)
 
 A simple command-line calculator written in Python.  
